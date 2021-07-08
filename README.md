@@ -1,6 +1,6 @@
 # EarthMC.net
 
-Live version of the website available at [EarthMC.net](https://earthmc.net/). (fix incoming)
+Fixed live version of the website available at [EarthMC.net](https://earthmc.net/). (Please use beta branch)
 
 ## Contributing
 
